@@ -1,0 +1,88 @@
+/* @authors awantoch, tross, sheybey */
+
+nav {
+  position: fixed;
+  -webkit-backface-visibility: hidden;
+  z-index: 10;
+}
+
+nav ul a,
+nav .brand-logo {
+  color: #444;
+}
+
+img#logo-nav {
+  margin: 14px 0 0 24px;
+  height: 42px;
+}
+
+#banner {
+  height: 90vh;
+}
+
+#particles {
+  background: black;
+  z-index: -10;
+  position: fixed;
+  -webkit-backface-visibility: hidden;
+  height: 100vh;
+  width: 100vw;
+  top: 0;
+  left: 0;
+}
+
+#media-buttons > i {
+  padding: 25px;
+}
+
+#blurbs > .row {
+  padding: 70px;
+  background-color: rgba(25, 35, 126, 0.88) !important;
+}
+
+#token-blurb {
+  height: 100vh;
+}
+
+img#token {
+  margin-top: 15vh;
+  max-height: 42vh;
+}
+
+#action-call {
+  padding: 100px 0 100px 0;
+}
+
+#team {
+  margin-top: 50px;
+}
+
+.card-content {
+  font-size: 12px;
+  min-height: 150px;
+}
+
+#roadmap {
+  margin-top: 75px;
+}
+
+#roadmap > .col {
+  padding: 50px;
+}
+
+p#roadmap-text {
+  font-size: 16px;
+}
+
+p#roadmap-text > i {
+  padding: 20px;
+}
+
+#current-status {
+  padding-bottom: 3px;
+  border-bottom: 3px solid #3f51b5 !important;
+}
+
+.modal-content > h4 { 
+  margin-top: 24px;
+}

@@ -92,7 +92,7 @@
         {
           name: 'Karan Raj',
           position: 'Research and Development Specialist',
-          img: 'kraj.png',
+          img: 'kraj.jpg',
           details: 'Karan Raj is a research and development specialist and has experience with Hyperledger. He worked with Amazon for 3 years as a transportation specialist for Operations of the European region. Mr. Raj completed a Bachelor\'s of Arts from Aurora Scientific Technological and Research Academy in Computer Science Engineering and is currently pursuing his master\’s degree in Information Systems Engineering and Management at the Harrisburg University of Science and Technology.'
         }
       ];

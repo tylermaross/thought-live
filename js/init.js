@@ -10,7 +10,7 @@
           img: 'ahacker.png',
           details: 'Professor Andrew J. Hacker is Founder and CEO of Thought Network and Cybersecurity Expert In Residence at Harrisburg University. As CEO of Thought Network Mr. Hacker is building an innovative technology called Smart Data that will help protect consumer privacy while still providing device manufacturers access to use data. Mr. Hacker was the Deputy Chief Information Security Officer for the Commonwealth of Pennsylvania for 6 years. Mr. Hacker has publications in Network World, Information Week, Help Net Security and appears regularly as Cybersecurity Expert on FOX, NBC and CBS news affiliates locally and nationally. Certifications: CISSP, ISSAP, PCI QSA (former), CTGA, CGCIO.'
         },
-        {
+		{
           name: 'Gil O\'Brien',
           position: 'CMO',
           img: 'gobrien.png',
@@ -81,7 +81,7 @@
           name: 'Tyler Ross',
           position: 'IT Infrastructure Specialist',
           img: 'tross.png',
-          details: 'Tyler Ross is the IT Infrastructure Specialist'
+          details: 'Tyler Ross is the IT Infrastructure Specialist. His background is in Computer Science with a focus in cyber security and systems administration. He has 7 years of experience within the IT field, 2 being within cyber security and network administration.'
         },
         {
           name: 'Neelima Bandi',
